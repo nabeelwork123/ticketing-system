@@ -197,7 +197,7 @@ $(document).ready(function () {
   if ($('#s-line-area').length > 0) {
     var sLineArea = {
       chart: {
-        height: 350,
+        height: 120,
         type: 'area',
         toolbar: {
           show: false,

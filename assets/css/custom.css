@@ -485,15 +485,10 @@ counter-reset: item;
 
 /* New Css Start */
 
-.dropdown .dropdown-toggle:after {
-    display: inline-block;
-    margin-inline-start: 0.5rem;
-    vertical-align: 0;
-    content: "\f078";
-    font-family: "Font Awesome 5 Free";
-    border: 0;
-    font-size: 0.75rem;
-    font-weight: 600;
+.est-img img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
 }
 
 /* New Css Start */

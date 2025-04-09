@@ -4,6 +4,11 @@
 <!-- Bootstrap Core JS -->
 <script src="assets/js/bootstrap.bundle.min.js" type="text/javascript"></script>
 
+
+
+<!-- Apexcahrt Icon JS -->
+<!-- <script src="assets/js/apexcharts.js" type="text/javascript"></script> -->
+
 <!-- Feather Icon JS -->
 <script src="assets/js/feather.min.js" type="text/javascript"></script>
 
@@ -54,9 +59,15 @@
 <script src="assets/js/apexcharts.min.js" type="text/javascript"></script>
 <script src="assets/js/chart-data.js" type="text/javascript"></script>
 
+
+ <!-- Chart JS -->
+ <script src="assets/js/d3.v5.min.js" type="text/javascript"></script>
+    <script src="assets/js/c3.min.js" type="text/javascript"></script>
+    <!-- <script src="assets/js/chart-data.js" type="text/javascript"></script> -->
+
 <!-- Chart JS -->
 <script src="assets/js/chart.min.js" type="text/javascript"></script>
-<script src="assets/js/chart-data.js" type="text/javascript"></script>
+<!-- <script src="assets/js/chart-data.js" type="text/javascript"></script> -->
 
 <!-- Slimscroll JS -->
 <script src="assets/js/jquery.slimscroll.min.js" type="text/javascript"></script>
@@ -69,8 +80,8 @@
 <script src="assets/js/jquery.fancybox.min.js" type="text/javascript"></script>
 
 <!-- Chart JS -->
-<script src="assets/js/chart.min.js" type="text/javascript"></script>
-<script src="assets/js/chart-data.js" type="text/javascript"></script>
+<!-- <script src="assets/js/chart.min.js" type="text/javascript"></script>
+<script src="assets/js/chart-data.js" type="text/javascript"></script> -->
 
 <!-- Flatpicker JS -->
 <script src="assets/js/flatpickr.min.js" type="text/javascript"></script>

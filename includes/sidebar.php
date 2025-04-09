@@ -80,8 +80,9 @@
             <!-- <li class="menu-title"><span>Admin Area</span></li> -->
             <li>
                 <ul>
-                    <!-- <li><a href="index.php"><i class="ti ti-external-link"></i><span>Dashboard</span></a></li> -->
-                    <li><a href="add-employee.php"><i class="ti ti-home"></i><span>Dashboard</span></a></li>
+                   
+                    <li><a href="index.php"><i class="ti ti-home"></i><span>Dashboard</span></a></li>
+                    <li><a href="ticket.php"><i class="ti ti-external-link"></i><span>Ticketing</span></a></li>
                      <!-- <li><a href="add-department.php"><i class="fa-regular fa-building"></i><span>Add Department</span></a></li>
                     <li><a href="add-designations.php"><i class="fa-solid fa-user"></i><span>Add Designations</span></a></li>
                     <li><a href="add-policy.php"><i class="fa-solid fa-book"></i><span>Add Policy</span></a></li>
