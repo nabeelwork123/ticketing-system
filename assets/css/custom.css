@@ -491,6 +491,10 @@ counter-reset: item;
     object-fit: cover;
 }
 
+.offcanvas-custom {
+    width: 800px !important; /* or any size you want */
+  }
+
 /* New Css Start */
 
 @media(max-width:1400px){

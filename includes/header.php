@@ -951,22 +951,22 @@
                 <!-- /Horizontal Single -->
 
                 <div class="d-flex align-items-center">
-                <div class="me-2 mb-2">
+                <!-- <div class="me-2 mb-2">
                 <div class="dropdown">
                    <a href="javascript:void(0);" class="btn btn-primary text-start border-0 dropdown-toggle border btn-sm d-inline-flex align-items-center " data-bs-toggle="dropdown">
-                                   New Ticket
-                                   <i class="fa-solid fa-angle-down px-2 fs=10"></i>
-                                    </a>
-                                    <ul class="dropdown-menu  dropdown-menu-end p-0">
-                                        <li>
-                                            <a href="javascript:void(0);" class="dropdown-item rounded-1">Flight</a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:void(0);" class="dropdown-item rounded-1">Train</a>
-                                        </li>
+                            New Ticket
+                            <i class="fa-solid fa-angle-down px-2 fs=10"></i>
+                            </a>
+                            <ul class="dropdown-menu  dropdown-menu-end p-0">
+                                <li>
+                                  <a href="javascript:void(0);" class="dropdown-item rounded-1">Flight</a>
+                                 </li>
+                               <li>
+                               <a href="javascript:void(0);" class="dropdown-item rounded-1">Train</a>
+                            </li>
                          </ul>
                       </div>
-                    </div>
+                    </div> -->
                     <div class="me-1">
                         <a href="#" class="btn btn-menubar btnFullscreen">
                             <i class="ti ti-maximize"></i>

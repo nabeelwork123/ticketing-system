@@ -53,7 +53,9 @@
 <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 
 <!-- Summernote CSS -->
-<link rel="stylesheet" href="assets/css/summernote-lite.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/summernote/0.9.1/summernote.min.css"  />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/summernote/0.9.1/summernote-lite.min.css"  />
+<!-- <link rel="stylesheet" href="assets/css/summernote-lite.min.css"> -->
 
 <!-- Datetimepicker CSS -->
 <link rel="stylesheet" href="assets/css/bootstrap-datetimepicker.min.css">

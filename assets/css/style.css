@@ -13204,9 +13204,9 @@ svg.collapse-open, svg.collapse-close {
 .offcanvas {
   color: #6B7280;
 }
-.offcanvas.offcanvas-end {
+/* .offcanvas.offcanvas-end {
   width: auto !important;
-}
+} */
 
 .offcanvas.offcanvas-end.em-payrol-add {
   max-width: 1192px !important;

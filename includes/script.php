@@ -16,6 +16,7 @@
 <script src="assets/js/jquery.slimscroll.min.js" type="text/javascript"></script>
 
 <!-- Summernote JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/summernote/0.9.1/summernote.min.js"></script>
 <script src="assets/js/summernote-lite.min.js" type="text/javascript"></script>
 
 <!-- Color Picker JS -->
@@ -54,16 +55,14 @@
 <!-- Owl Carousel JS -->
 <script src="assets/js/owl.carousel.min.js" type="text/javascript"></script>
 
-
 <!-- Chart JS -->
 <script src="assets/js/apexcharts.min.js" type="text/javascript"></script>
 <script src="assets/js/chart-data.js" type="text/javascript"></script>
 
-
- <!-- Chart JS -->
- <script src="assets/js/d3.v5.min.js" type="text/javascript"></script>
-    <script src="assets/js/c3.min.js" type="text/javascript"></script>
-    <!-- <script src="assets/js/chart-data.js" type="text/javascript"></script> -->
+<!-- Chart JS -->
+<script src="assets/js/d3.v5.min.js" type="text/javascript"></script>
+<script src="assets/js/c3.min.js" type="text/javascript"></script>
+<!-- <script src="assets/js/chart-data.js" type="text/javascript"></script> -->
 
 <!-- Chart JS -->
 <script src="assets/js/chart.min.js" type="text/javascript"></script>
@@ -86,6 +85,11 @@
 <!-- Flatpicker JS -->
 <script src="assets/js/flatpickr.min.js" type="text/javascript"></script>
 
+<!-- Chart JS -->
+<script src="assets/js/jquery.flot.js"  type="text/javascript"></script>
+<script src="assets/js/jquery.flot.fillbetween.js"  type="text/javascript"></script>
+<script src="assets/js/jquery.flot.pie.js"  type="text/javascript"></script>
+<script src="assets/js/fort-chart-data.js"  type="text/javascript"></script>
 
 
 <script src="assets/js/email.js" type="text/javascript"></script>
